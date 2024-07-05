@@ -49,9 +49,12 @@ Data preprocessing involves handling missing values, encoding categorical variab
 Several machine learning models are implemented to predict passenger survival:
 - Logistic Regression
 - Decision Tree
+- Naive Bayes
 - Random Forest
-- Support Vector Machine
+- Support Vector Classifier
 - K-Nearest Neighbors
+- Soft Voting Classifier
+- Xtreme Gradient Boosting
 
 ## Model Evaluation
 Models are evaluated using metrics such as accuracy, precision, recall, and F1-score. Cross-validation ensures the models' robustness and generalizability.
